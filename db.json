@@ -1,0 +1,28 @@
+{
+	"employees": [
+		{
+			"id": 1,
+			"firstName": "Markus",
+			"lastName": "Klenke",
+			"hireDate": "2011-03-21",
+			"salary": 12345,
+			"manager": null,
+			"department": 1
+		},
+		{
+			"id": 2,
+			"firstName": "John",
+			"lastName": "Doe",
+			"hireDate": "2015-11-15",
+			"salary": 1337,
+			"manager": 1,
+			"department": 1
+		}
+	],
+	"departments": [
+		{
+			"id": 1,
+			"name": "IT"
+		}
+	]
+}
